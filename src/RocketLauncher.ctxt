@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RocketLauncher
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RocketLauncher\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=h
+comment1.target=RocketLauncher(Heli)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RocketLauncher\r\n
+comment2.params=fr\ r\ p
+comment2.target=Projectile\ getProjectile(boolean,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getDelay()
+numComments=4

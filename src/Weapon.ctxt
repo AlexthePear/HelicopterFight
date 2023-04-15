@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Weapon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Weapon\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=h
+comment1.target=Weapon(Heli)
+comment2.params=
+comment2.target=int\ getTimer()
+comment3.params=
+comment3.target=int\ getDelay()
+comment4.params=
+comment4.target=void\ incrementTimer()
+comment5.params=fr\ r\ p
+comment5.target=Projectile\ getProjectile(boolean,\ int,\ java.lang.String)
+comment6.params=
+comment6.target=void\ resetTimer()
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Grid
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Grid\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=rows\ cols\ cs
+comment1.target=Grid(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getCS()
+comment3.params=
+comment3.target=int[][]\ getGrid()
+comment4.params=
+comment4.target=void\ generateGrid()
+comment5.params=iter
+comment5.target=void\ smoothGrid(int)
+comment6.params=x\ y
+comment6.target=int\ countNeighbors(int,\ int)
+numComments=7
